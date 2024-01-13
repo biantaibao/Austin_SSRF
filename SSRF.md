@@ -12,6 +12,7 @@ Add an email message template to the front-end interface of the system.
 <img width="1427" alt="图片3" src="https://github.com/biantaibao/Austin_SSRF/assets/131763503/57e8d312-ebeb-40ff-b581-0d85d42dfb10">  
 ![image](https://github.com/biantaibao/Austin_SSRF/assets/131763503/f3afb139-0d2a-4060-8f92-bb8a83bc3ac0)  
 Save and Test  
+![1704639566_659abc4e637b840d22751](https://github.com/biantaibao/Austin_SSRF/assets/131763503/891dbc38-7af0-4b07-a19a-2a2d820e0b38)  
 ![image](https://github.com/biantaibao/Austin_SSRF/assets/131763503/7d69d836-a58e-42c5-b8d4-01bdc8321bff)  
 The email received a message and carried the passwd attachment.   
 ![image](https://github.com/biantaibao/Austin_SSRF/assets/131763503/d035af31-32b2-4699-96c6-adb4e9d1d06f)  
